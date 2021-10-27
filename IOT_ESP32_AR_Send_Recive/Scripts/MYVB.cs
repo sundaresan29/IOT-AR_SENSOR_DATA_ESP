@@ -1,4 +1,9 @@
-﻿using System.Collections;
+//Created By    : Sundaresan S
+//Project       : This is a code for Publish data to cloud 
+//Date          : 10 April 2019
+//Description   :This is a code for Publish data to cloud 
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Vuforia;
