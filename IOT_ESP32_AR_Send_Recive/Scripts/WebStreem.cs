@@ -1,7 +1,7 @@
 //Created By    : Sundaresan S
 //Project       : To Send and Recive Data from adafruit io cloud 
 //Date          : 10 April 2019
-//Description   :This is a code for recive any data from cloud and also publish 
+//Description   :This is a code to recive any data from cloud and also publish 
 
 using System.Collections;
 using System.Collections.Generic;
