@@ -1,7 +1,7 @@
 //Created By    : Sundaresan S
-//Project       : This is a code for Publish data to cloud 
-//Date          : 10 April 2019
-//Description   :This is a code for Publish data to cloud 
+//Project       : Virtual Button for Publish data 
+//Date          : 16 OCT 2021
+//Description   :This code will Publish json data("0") to cloud via api by pressing virtual button 
 
 using System.Collections;
 using System.Collections.Generic;
