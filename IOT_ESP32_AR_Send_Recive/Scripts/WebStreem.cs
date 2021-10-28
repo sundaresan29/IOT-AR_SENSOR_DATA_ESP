@@ -1,7 +1,7 @@
 //Created By    : Sundaresan S
-//Project       : To Send and Recive Data from adafruit io cloud 
+//Project       : AR Virtual Lamp Switch and Sensor Data   
 //Date          : 10 April 2019
-//Description   :This is a code to recive any data from cloud and also publish 
+//Description   :This is a code to recive any data from cloud(adafruit io) and also publish 
 
 using System.Collections;
 using System.Collections.Generic;
