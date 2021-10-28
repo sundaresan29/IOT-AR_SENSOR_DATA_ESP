@@ -1,4 +1,9 @@
-﻿using System.Collections;
+//Created By    : Sundaresan S
+//Project       : Virtual Button for Publish data 
+//Date          : 16 OCT 2021
+//Description   :This code will Publish json data("0") to cloud via api by pressing virtual button ("OFF_Button")
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Vuforia;
